@@ -1,16 +1,54 @@
-# React + Vite
+# 🍔 Food Delivery Website – React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Food Ordering Web Application** built with **React.js**.  
+This project demonstrates real-world frontend concepts like state management, filtering, search, cart handling, and notifications.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** https://food-order-websitebyshanti.netlify.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Browse food items with clean UI  
+- Real-time search functionality  
+- Category based filtering  
+- Add items to cart  
+- Increase / decrease quantity  
+- Remove items from cart  
+- Order placed notification using React Toastify  
+- Fully responsive design  
+- Fast performance with Vite  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Technologies Used
+
+- React.js  
+- Redux Toolkit  
+- Context API  
+- Tailwind CSS  
+- React Toastify  
+- React Icons  
+- Vite  
+
+---
+
+## 📦 Main Libraries
+
+- @reduxjs/toolkit  
+- react-redux  
+- react-toastify  
+- react-icons  
+- tailwindcss  
+
+---
+
+## ✨ Key Learnings
+
+- State management using Redux + Context API  
+- Reusable component structure  
+- Search & filter logic implementation  
+- Cart management system  
+- Toast notifications integration  
+- Clean and scalable folder structure  
+- Deployment on Netlify    
